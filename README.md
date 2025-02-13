@@ -1,63 +1,145 @@
-# Simple Todo App
+# Stino Todo
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+<div align="center">
 
-## Setup
+[![Website](https://img.shields.io/badge/Website-todo.stinoo.dev-cyan)](https://todo.stinoo.dev)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/stinoooo/stinoo-todo/releases)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![Issues](https://img.shields.io/github/issues/stinoooo/stinoo-todo)](https://github.com/stinoooo/stinoo-todo/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/stinoooo/stinoo-todo)](https://github.com/stinoooo/stinoo-todo/commits)
+[![Status](https://img.shields.io/website?url=https%3A%2F%2Ftodo.stinoo.dev)](https://todo.stinoo.dev)
 
-Make sure to install the dependencies:
+<a href="https://todo.stinoo.dev">
+  <img src="preview.png" alt="Stino Todo Preview" width="600px" />
+</a>
+
+Modern, minimal task management application built with Nuxt 3 and TailwindCSS.
+
+[Live Demo](https://todo.stinoo.dev) • [Report Bug](https://github.com/stinoooo/stinoo-todo/issues) • [Request Feature](https://github.com/stinoooo/stinoo-todo/issues)
+
+</div>
+
+## ✨ Features
+
+- 🚀 **Lightning Fast**: Built with performance in mind
+- 🎨 **Beautiful UI**: Modern, clean interface with smooth animations
+- 💾 **Persistent Storage**: Your tasks are saved automatically
+- ⌨️ **Keyboard Shortcuts**: Quick task management with keyboard controls
+- 📱 **Responsive Design**: Works perfectly on all devices
+- 🌙 **Dark Mode**: Easy on the eyes
+- 🔄 **Real-time Updates**: Instant task status changes
+- ⚡ **Offline Support**: Works without internet connection
+
+## 🚀 Tech Stack
+
+- [Nuxt 3](https://nuxt.com/) - The Intuitive Web Framework
+- [Vue 3](https://vuejs.org/) - The Progressive JavaScript Framework
+- [TailwindCSS](https://tailwindcss.com/) - A utility-first CSS framework
+- [TypeScript](https://www.typescriptlang.org/) - JavaScript with syntax for types
+
+## 🛠️ Getting Started
+
+### Prerequisites
+
+- Node.js 18+
+- npm or yarn or pnpm
+
+### Installation
+
+1. Clone the repository
 
 ```bash
-# npm
+git clone https://github.com/stinoooo/stinoo-todo.git
+```
+
+2. Install dependencies
+```bash
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
+# or
 yarn install
+# or
+pnpm install
 ```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
+3. Run development server
 ```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
+# or
 yarn dev
+# or
+pnpm dev
 ```
 
-## Production
-
-Build the application for production:
-
+4. Build for production
 ```bash
-# npm
 npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
+# or
 yarn build
+# or
+pnpm build
 ```
 
-Locally preview production build:
+## 🌟 Usage
 
-```bash
-# npm
-npm run preview
+### Keyboard Shortcuts
 
-# pnpm
-pnpm run preview
+- `Ctrl/Cmd + Enter` - Add new task
+- `Esc` - Clear input field
+- `Space` - Toggle task completion
+- `Delete` - Remove task
 
-# yarn
-yarn preview
-```
+### Task Management
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+- Click the checkbox to toggle task completion
+- Click the trash icon to delete a task
+- Tasks are automatically saved to local storage
+- Clear completed tasks with one click
+
+## 📈 Project Status
+
+<div align="center">
+
+[![Last Commit](https://img.shields.io/github/last-commit/stinoooo/stinoo-todo?style=for-the-badge)](https://github.com/stinoooo/stinoo-todo/commits)
+[![Active](https://img.shields.io/badge/Maintenance%20Level-Active-green.svg?style=for-the-badge)](https://github.com/stinoooo/stinoo-todo)
+[![Release Date](https://img.shields.io/github/release-date/stinoooo/stinoo-todo?style=for-the-badge)](https://github.com/stinoooo/stinoo-todo/releases)
+
+</div>
+
+## 🤝 Contributing
+
+Contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👤 Author
+
+**Stino**
+
+- Website: [stinoo.dev](https://stinoo.dev)
+- GitHub: [@stinoooo](https://github.com/stinoooo)
+- Twitter: [@stinoooo](https://twitter.com/stinoooo)
+
+## 💖 Acknowledgments
+
+- Thanks to all contributors who have helped this project grow
+- Inspired by modern todo applications
+- Built with love and caffeine ☕
+
+---
+
+<div align="center">
+
+Made with ❤️ by [Stino](https://stinoo.dev)
+
+[![Stargazers](https://img.shields.io/github/stars/stinoooo/stinoo-todo?style=social)](https://github.com/stinoooo/stinoo-todo/stargazers)
+[![Followers](https://img.shields.io/github/followers/stinoooo?style=social)](https://github.com/stinoooo)
+
+</div>
