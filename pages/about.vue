@@ -114,7 +114,7 @@
                        text-slate-300 border border-slate-700 rounded-lg
                        transition-all duration-300 hover:text-slate-200 hover:border-slate-600
                        hover:bg-slate-800/50"
-          href="https://twitter.com/stinoooo"
+          href="https://twitter.com/stijnheemskerk_"
           rel="noreferrer noopener"
           target="_blank"
       >
